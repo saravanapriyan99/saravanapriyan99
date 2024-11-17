@@ -2,7 +2,7 @@
 🎓 CS Student | Web Developer | Python Lover
 -🌱 Always eager to improve my skills and collaborate on web development projects!
 -🛠️ Skills: HTML, CSS, Python, Flask (learning), JavaScript (beginner)
-- 👀 I’m interested in data annalist
+- 👀 I’m interested in data analyst
 - 🌱 I’m currently learning java script
 - 💞️ I’m looking to collaborate on big it companies
 - 📫 How to reach me saravanapriyan997@gmail.com
