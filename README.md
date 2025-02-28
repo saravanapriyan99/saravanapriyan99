@@ -5,7 +5,7 @@
 - 👀 I’m interested in data annalist
 - 🌱 I’m currently learning java script
 - 💞️ I’m looking to collaborate on big it companies
-- 📫 How to reach me saravanapriyan997@gmail.com
+- 📫 How to reach me saravanapriyan779@gmail.com
 
 <!---
 saravanapriyan99/saravanapriyan99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
